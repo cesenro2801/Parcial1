@@ -1,0 +1,24 @@
+.form {
+  background-attachment: fixed;
+  width: 440px;
+  background: #ffffff;
+  margin: calc(20vh - 120px) auto;
+  padding: 20px 30px;
+  max-width: calc(100vw - 6s0px);
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  position: relative;
+  opacity: 0.9;
+}
+.form1 {
+  background-attachment: fixed;
+  width: 410px;
+  background: #a8a8a8;
+  margin: calc(20vh - 120px) auto;
+  padding: 20px 30px;
+  max-width: calc(100vw - 6s0px);
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  position: relative;
+  opacity: 0.9;
+}
